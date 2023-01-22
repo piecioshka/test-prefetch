@@ -2,7 +2,7 @@
 
 :ledger: Testing `<link rel="prefetch">`
 
-## Demo 🎉
+## Preview 🎉
 
 * [Page not use "prefetch"](https://piecioshka.github.io/test-prefetch/src/)
 * [Page use "prefetch"](https://piecioshka.github.io/test-prefetch/src/prefetch.html)
